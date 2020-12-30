@@ -23,5 +23,5 @@
   "include": [
     "src",
     "custom.d.ts"
-  ]
+, "react-app-env.d.ts"  ]
 }
