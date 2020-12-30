@@ -1,5 +1,6 @@
 {
   "*.{js,ts,tsx}": [
-    "eslint --cache --fix"
+    "eslint --cache --fix",
+    "react-scripts test --watchAll=false --bail --findRelatedTests"
   ]
 }
