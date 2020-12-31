@@ -46,7 +46,7 @@ module.exports = {
 
   scopes: [],
 
-  allowTicketNumber: true,
+  allowTicketNumber: false,
   isTicketNumberRequired: false,
   ticketNumberPrefix: 'TICKET-',
   ticketNumberRegExp: '\\d{1,5}',
