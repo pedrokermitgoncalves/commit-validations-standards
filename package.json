@@ -7,7 +7,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint './src/**/*.{js,ts,tsx}' --quiet --fix",
     "start": "react-scripts start",
-    "test": "react-scripts testsss"
+    "test": "react-scripts test"
   },
   "husky": {
     "hooks": {
