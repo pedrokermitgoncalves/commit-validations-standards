@@ -1,3 +1,5 @@
+require('./welcome');
+
 module.exports = {
   types: [
     {
